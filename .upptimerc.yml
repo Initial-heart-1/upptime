@@ -12,7 +12,7 @@ status-website:
   cname: init.amiya.cn
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Amiya Status
   navbar:
     - title: 状态
       href: /
