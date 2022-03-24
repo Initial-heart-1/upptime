@@ -4,19 +4,19 @@
     "url": "$URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "amiya-in",
-    "status": "down",
-    "uptime": "86.10%",
-    "uptimeDay": "86.10%",
-    "uptimeWeek": "86.10%",
-    "uptimeMonth": "86.10%",
-    "uptimeYear": "86.10%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.60%",
+    "uptimeDay": "1.60%",
+    "uptimeWeek": "1.60%",
+    "uptimeMonth": "1.60%",
+    "uptimeYear": "1.60%",
+    "time": 1286,
+    "timeDay": 1286,
+    "timeWeek": 1286,
+    "timeMonth": 1286,
+    "timeYear": 1286,
     "dailyMinutesDown": {
-      "2022-03-24": 0
+      "2022-03-24": 34
     }
   }
 ]
