@@ -14,9 +14,9 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   navbar:
-    - title: Status
+    - title: 状态
       href: /
-    - title: GitHub
+    - title: GitHub（备用浏览）
       href: https://github.com/$OWNER/$REPO
 
 
