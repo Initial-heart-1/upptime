@@ -3,8 +3,8 @@ owner: Initial-heart-1 # Your GitHub organization or username, where this reposi
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Amiya IN
+    url: $URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
