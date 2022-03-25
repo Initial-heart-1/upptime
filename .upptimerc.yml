@@ -89,7 +89,7 @@ i18n:
   responseTimeDay: 24 小时内的响应检测时间
   responseTimeWeek: 7 天内的响应检测时间
   responseTimeMonth: 30 天内的响应检测时间
-  responseTimeMonth: 1 年内的响应检测时间
+  responseTimeYear: 1 年内的响应检测时间
   uptimeDay: 24 小时内的正常运行时间
   uptimeWeek: 7 天内的正常运行时间
   uptimeMonth: 30 天内的正常运行时间
