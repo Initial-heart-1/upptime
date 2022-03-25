@@ -48,9 +48,9 @@ i18n:
   averageResponseTimeTitle: 平均响应
   sevelDayResponseTime: 7 天内的响应检测时间
   responseTimeMs: 响应时间 (ms)
-  up: 🟩 正常运行
-  down: 🟥 服务异常
-  degraded: 🟨 与检测服务连接不畅
+  up: 正常运行
+  down: 服务异常
+  degraded: 与检测服务连接不畅
   ms: ms
   loading: Loading...
   navGitHub: GitHub
