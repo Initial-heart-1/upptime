@@ -35,7 +35,7 @@ i18n:
   incidentOngoing: 正在修复
   incidentOpenedAt: 开始于
   incidentClosedAt: 结束于
-  incidentSubscribe: 订阅状态更新
+  incidentSubscribe: 跟进事件状态
   incidentViewOnGitHub: 在 Github 中浏览
   incidentCommentSummary: $DATE by $AUTHOR
   incidentBack: ← 回到历史错误事件列表
@@ -94,4 +94,3 @@ i18n:
   uptimeWeek: 7 天内的正常运行时间
   uptimeMonth: 30 天内的正常运行时间
   uptimeYear: 1 年内的正常运行时间
-  liveStatus: 当前状态
