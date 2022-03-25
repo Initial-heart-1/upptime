@@ -94,4 +94,4 @@ i18n:
   uptimeWeek: 7 天内的正常运行时间
   uptimeMonth: 30 天内的正常运行时间
   uptimeYear: 1 年内的正常运行时间
-  
+  liveStatus: 当前状态
