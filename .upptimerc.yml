@@ -21,4 +21,60 @@ status-website:
     - title: GitHub（备用浏览）
       href: https://github.com/$OWNER/$REPO
 
-
+i18n:
+  activeIncidents: 最新事件
+  allSystemsOperational: 所有系统都处在正常运行状态
+  incidentReport: "错误事件 #$NUMBER 报告 →"
+  activeIncidentSummary: 开始于 $DATE ，已有 $POSTS 个事件说明
+  incidentTitle: 错误事件 $NUMBER 详情
+  incidentDetails: 错误事件详情
+  incidentFixed: 已修复
+  incidentOngoing: 正在修复
+  incidentOpenedAt: 开始于
+  incidentClosedAt: 结束于
+  incidentSubscribe: 订阅状态更新
+  incidentViewOnGitHub: 在 Github 中浏览
+  incidentCommentSummary: $DATE by $AUTHOR
+  incidentBack: ← 回到历史错误事件列表
+  pastIncidents: 历史错误事件
+  pastIncidentsResolved: 在 $MINUTES 分钟内被解决，有 $POSTS 个事件说明
+  liveStatus: 服务状态
+  overallUptime: "总正常运行时间: $UPTIME"
+  overallUptimeTitle: 总正常运行时间
+  averageResponseTime: "平均响应检测时间: $TIMEms"
+  averageResponseTimeTitle: 平均响应
+  sevelDayResponseTime: 7 天内的响应检测时间
+  responseTimeMs: 响应时间 (ms)
+  up: 正常运行
+  down: 服务异常
+  degraded: 与检测服务连接不畅
+  ms: ms
+  loading: Loading...
+  navGitHub: GitHub
+  footer: Copyright © 2021-2022 Initial_heart. All Rights Reserved. [开放源代码软件项目许可证](https://initoslc.amiya.cn/)
+  rateLimitExceededTitle: 与检测服务的连接异常
+  rateLimitExceededIntro: 您在一小时内的访问次数过多，请稍后再试，或者添加您的 Github PAT 来继续使用。
+  rateLimitExceededWhatDoesErrorMean: 这个错误意味着什么？
+  rateLimitExceededErrorMeaning: 该网站使用 GitHub API 访问有关我们服务状态的实时数据。默认情况下，GitHub 允许每个 IP 地址每小时发送 60 个请求，您已经使用了这些请求。
+  rateLimitExceededErrorHowCanFix: 我该怎么解决这个错误？
+  rateLimitExceededErrorFix: 只需要等一个小时，IP 地址限制就会恢复。或者，您可以添加您的 GitHub PAT，这可以让每小时可用的请求量增加至 5000 个。
+  rateLimitExceededGeneratePAT: 了解如何生成 PAT（个人访问令牌）
+  rateLimitExceededHasSet: 您已完成 PAT 配置。
+  rateLimitExceededRemoveToken: 移除您的 PAT
+  rateLimitExceededGitHubPAT: GitHub PAT（Personal Access Token）
+  rateLimitExceededCopyPastePAT: 复制并粘贴您的 PAT
+  rateLimitExceededSaveToken: 保存 PAT
+  errorTitle: 出现了一个错误
+  errorIntro: 试图获取最新状态详细信息时出错。
+  errorText: 请在几分钟后再试，或者使用右上角的备用地址查询状态。
+  errorHome: 回到首页
+  pastScheduledMaintenance: 历史维护事件
+  scheduledMaintenance: 维护事件
+  scheduledMaintenanceSummaryStarted: 开始于 $DATE ，预计用时 $DURATION 分钟
+  scheduledMaintenanceSummaryStarts: 开始于 $DATE ，预计用时 $DURATION 分钟
+  startedAt: 开始于
+  startsAt: 开始于
+  duration: 用时
+  durationMin: $DURATION 分钟
+  incidentCompleted: 已完成
+  incidentScheduled: 预计
