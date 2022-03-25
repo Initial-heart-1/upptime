@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: init.amiya.cn
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://cdn.jsdelivr.net/gh/Initial-heart-1/upptime/amiya.svg
   name: Amiya Status
   navbar:
     - title: 状态
