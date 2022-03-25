@@ -23,7 +23,10 @@ status-website:
 
 i18n:
   activeIncidents: 最新事件
-  allSystemsOperational: 所有系统都处在正常运行状态
+  allSystemsOperational: 系统处在正常运行状态
+  partialOutage: 系统中的部分服务异常
+  completeOutage: 系统状态异常
+  degradedPerformance: 与检测服务连接不畅
   incidentReport: "错误事件 #$NUMBER 报告 →"
   activeIncidentSummary: 开始于 $DATE ，已有 $POSTS 个事件说明
   incidentTitle: 错误事件 $NUMBER 详情
@@ -38,20 +41,20 @@ i18n:
   incidentBack: ← 回到历史错误事件列表
   pastIncidents: 历史错误事件
   pastIncidentsResolved: 在 $MINUTES 分钟内被解决，有 $POSTS 个事件说明
-  liveStatus: 服务状态
-  overallUptime: "总正常运行时间: $UPTIME"
-  overallUptimeTitle: 总正常运行时间
+  liveStatus: 服务实时状态
+  overallUptime: "正常运行时间（占比）: $UPTIME"
+  overallUptimeTitle: 正常运行时间（占比）
   averageResponseTime: "平均响应检测时间: $TIMEms"
   averageResponseTimeTitle: 平均响应
   sevelDayResponseTime: 7 天内的响应检测时间
   responseTimeMs: 响应时间 (ms)
-  up: 正常运行
-  down: 服务异常
-  degraded: 与检测服务连接不畅
+  up: 🟩 正常运行
+  down: 🟥 服务异常
+  degraded: 🟨 与检测服务连接不畅
   ms: ms
   loading: Loading...
   navGitHub: GitHub
-  footer: Copyright © 2021-2022 Initial_heart. All Rights Reserved. [开放源代码软件项目许可证](https://initoslc.amiya.cn/)
+  footer: Copyright © 2021-2022 Initial heart. All Rights Reserved. [开放源代码软件项目许可证](https://initoslc.amiya.cn/)
   rateLimitExceededTitle: 与检测服务的连接异常
   rateLimitExceededIntro: 您在一小时内的访问次数过多，请稍后再试，或者添加您的 Github PAT 来继续使用。
   rateLimitExceededWhatDoesErrorMean: 这个错误意味着什么？
@@ -78,3 +81,17 @@ i18n:
   durationMin: $DURATION 分钟
   incidentCompleted: 已完成
   incidentScheduled: 预计
+  status: 状态
+  history: 历史
+  responseTime: 响应时间
+  uptime: 正常运行时间
+  responseTimeGraphAlt: 响应时间图表
+  responseTimeDay: 24 小时内的响应检测时间
+  responseTimeWeek: 7 天内的响应检测时间
+  responseTimeMonth: 30 天内的响应检测时间
+  responseTimeMonth: 1 年内的响应检测时间
+  uptimeDay: 24 小时内的正常运行时间
+  uptimeWeek: 7 天内的正常运行时间
+  uptimeMonth: 30 天内的正常运行时间
+  uptimeYear: 1 年内的正常运行时间
+  
