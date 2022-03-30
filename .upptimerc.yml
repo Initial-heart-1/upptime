@@ -80,7 +80,7 @@ i18n:
   duration: 用时
   durationMin: $DURATION 分钟
   incidentCompleted: 已完成
-  incidentScheduled: 预计
+  incidentScheduled: 维护中
   status: 状态
   history: 历史
   responseTime: 响应时间
