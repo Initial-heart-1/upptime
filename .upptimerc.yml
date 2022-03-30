@@ -27,10 +27,10 @@ i18n:
   partialOutage: 系统中的部分服务异常
   completeOutage: 系统状态异常
   degradedPerformance: 与检测服务连接不畅
-  incidentReport: "错误事件 #$NUMBER 报告 →"
+  incidentReport: "事件 #$NUMBER 报告 →"
   activeIncidentSummary: 开始于 $DATE ，已有 $POSTS 个事件说明
-  incidentTitle: 错误事件 $NUMBER 详情
-  incidentDetails: 错误事件详情
+  incidentTitle: 事件 $NUMBER 详情
+  incidentDetails: 事件详情
   incidentFixed: 已修复
   incidentOngoing: 正在修复
   incidentOpenedAt: 开始于
@@ -38,8 +38,8 @@ i18n:
   incidentSubscribe: 跟进事件状态
   incidentViewOnGitHub: 在 Github 中浏览
   incidentCommentSummary: $DATE by $AUTHOR
-  incidentBack: ← 回到历史错误事件列表
-  pastIncidents: 历史错误事件
+  incidentBack: ← 回到历史事件列表
+  pastIncidents: 历史事件
   pastIncidentsResolved: 在 $MINUTES 分钟内被解决，有 $POSTS 个事件说明
   liveStatus: 服务实时状态
   overallUptime: "正常运行时间（占比）: $UPTIME"
