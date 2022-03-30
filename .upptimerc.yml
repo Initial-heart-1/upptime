@@ -7,6 +7,14 @@ sites:
     url: $URL
     assignees:
       - Initial-heart
+  - name: Initial heart Cloud
+    url: http://pan.initbili.top:6688/
+    assignees:
+      - Initial-heart
+  - name: Database Management System
+    url: $SJURL
+    assignees:
+      - Initial-heart
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
