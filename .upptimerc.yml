@@ -22,6 +22,7 @@ status-website:
   cname: init.amiya.cn
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.jsdelivr.net/gh/Initial-heart-1/upptime/amiya.svg
+  faviconSvg: https://cdn.jsdelivr.net/gh/AmiyaBot/upptime/amiya.svg
   name: Amiya Status
   navbar:
     - title: 状态
@@ -88,7 +89,7 @@ i18n:
   duration: 用时
   durationMin: $DURATION 分钟
   incidentCompleted: 已完成
-  incidentScheduled: 维护
+  incidentScheduled: 进行中
   status: 状态
   history: 历史
   responseTime: 响应时间
