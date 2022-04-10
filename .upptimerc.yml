@@ -7,10 +7,6 @@ sites:
     url: $URL
     assignees:
       - Initial-heart
-  - name: Initial heart Cloud
-    url: https://pan.initbili.top:8866/
-    assignees:
-      - Initial-heart
   - name: Database Management System
     url: $SJURL
     assignees:
