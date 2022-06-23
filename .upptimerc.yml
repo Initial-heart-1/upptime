@@ -18,7 +18,7 @@ status-website:
   cname: init.amiya.cn
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.jsdelivr.net/gh/Initial-heart-1/upptime/amiya.svg
-  faviconSvg: https://cdn.jsdelivr.net/gh/AmiyaBot/upptime/amiya.svg
+  faviconSvg: https://cdn.jsdelivr.net/gh/Initial-heart-1/upptime/amiya.svg
   name: Amiya Status
   navbar:
     - title: 状态
@@ -44,7 +44,7 @@ i18n:
   incidentViewOnGitHub: 在 Github 中浏览
   incidentCommentSummary: $DATE by $AUTHOR
   incidentBack: ← 回到历史事件列表
-  pastIncidents: 历史事件
+  pastIncidents: 历史故障事件
   pastIncidentsResolved: 在 $MINUTES 分钟内被解决，有 $POSTS 个事件说明
   liveStatus: 服务实时状态
   overallUptime: "正常运行时间（占比）: $UPTIME"
