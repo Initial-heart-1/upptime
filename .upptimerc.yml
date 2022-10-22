@@ -102,3 +102,7 @@ i18n:
 
 workflowSchedule:
   uptime: "*/1 * * * *"
+
+commitMessages:
+  commitAuthorName: "Initial-heart-1"
+  commitAuthorEmail: "$EMAIL"
