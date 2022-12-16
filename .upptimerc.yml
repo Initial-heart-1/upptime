@@ -7,6 +7,9 @@ sites:
     url: $URL
     assignees:
       - Initial-heart
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: Database Management System
     url: $SJURL
     assignees:
