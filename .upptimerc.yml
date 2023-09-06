@@ -62,7 +62,7 @@ i18n:
   ms: ms
   loading: Loading...
   navGitHub: GitHub
-  footer: Copyright © 2021-2022 Initial heart. All Rights Reserved. [开放源代码软件项目许可证](https://initoslc.amiya.cn/)
+  footer: Copyright © 2021-Present Initial heart. All Rights Reserved. [开放源代码软件项目许可证](https://initoslc.amiya.cn/)
   rateLimitExceededTitle: 与检测服务的连接异常
   rateLimitExceededIntro: 您在一小时内的访问次数过多，请稍后再试，或者添加您的 Github PAT 来继续使用。
   rateLimitExceededWhatDoesErrorMean: 这个错误意味着什么？
