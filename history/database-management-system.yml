@@ -1,7 +1,7 @@
 url: $SJURL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-17T09:40:43.714Z
+status: up
+code: 200
+responseTime: 1152
+lastUpdated: 2023-12-17T09:51:17.737Z
 startTime: 2022-03-30T05:06:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
