@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amiya-in",
     "status": "down",
-    "uptime": "41.63%",
+    "uptime": "41.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "46.28%",
-    "time": 2134,
-    "timeDay": 3344,
-    "timeWeek": 3306,
+    "time": 2138,
+    "timeDay": 3307,
+    "timeWeek": 3297,
     "timeMonth": 3438,
-    "timeYear": 1932,
+    "timeYear": 1935,
     "dailyMinutesDown": {
-      "2024-06-06": 75,
+      "2024-06-07": 77,
+      "2024-06-06": 1440,
       "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
@@ -260,8 +261,7 @@
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
-      "2023-06-09": 1440,
-      "2023-06-08": 1440
+      "2023-06-09": 1440
     }
   },
   {
@@ -270,15 +270,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "database-management-system",
     "status": "up",
-    "uptime": "70.53%",
-    "uptimeDay": "77.78%",
+    "uptime": "70.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "31.42%",
-    "uptimeMonth": "38.42%",
-    "uptimeYear": "64.03%",
-    "time": 1763,
-    "timeDay": 1415,
-    "timeWeek": 1431,
-    "timeMonth": 1364,
+    "uptimeMonth": "41.71%",
+    "uptimeYear": "64.31%",
+    "time": 1751,
+    "timeDay": 1450,
+    "timeWeek": 1426,
+    "timeMonth": 1370,
     "timeYear": 1786,
     "dailyMinutesDown": {
       "2024-06-05": 395,
@@ -456,8 +456,7 @@
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
-      "2023-06-09": 1440,
-      "2023-06-08": 1440
+      "2023-06-09": 1440
     }
   }
 ]
